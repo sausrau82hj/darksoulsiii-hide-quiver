@@ -1,4 +1,4 @@
-# Hide Quiver——*Dark Souls III*
+# Hide Quiver — *Dark Souls III*
 
 Equipping a bow or crossbow no longer puts a quiver, bolt case, or the arrows inside them on your character.
 Bow and crossbow stats, damage, stamina cost, weight and saves are untouched.
